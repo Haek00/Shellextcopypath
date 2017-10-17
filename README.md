@@ -3,7 +3,7 @@ Difference between the built in "Copy as path" is that this ext shows up without
 
 # Installation
 
-Download release and unzip anywhere, ex C:\shellext
+Download [release](https://github.com/Haek00/Shellextcopypath/releases/download/1.0/Shellext.zip) and unzip anywhere, ex C:\shellext
 
 Run install.bat as Administrator to install.
 

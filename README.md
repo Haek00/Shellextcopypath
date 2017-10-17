@@ -1,2 +1,15 @@
-# Shellextcopypath
-Copy path shell extension
+A simple shell extension for Windows 8/10 context menu. 
+Difference between the built in "Copy as path" is that this ext shows up without pressing shift and copies path without quotation or carriage return. Inserts a single space if multiple items are selected.
+
+# Installation
+
+Download release and unzip anywhere, ex C:\shellext
+
+Run install.bat as Administrator to install.
+
+Run uninstall.bat as Administrator to uninstall.
+
+## Demo
+[![](http://g.recordit.co/CO8dGGXoz7.gif)](http://g.recordit.co/CO8dGGXoz7.gif)
+
+
